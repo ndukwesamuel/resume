@@ -5,12 +5,12 @@
 
 
     .img_div{
-        background-color: red;
+        margin-top: -1em;
     }
 
 
     .img_div img{
-        width: 20em;
+        width: 15em;
         margin-left:2em ;
     }
 
