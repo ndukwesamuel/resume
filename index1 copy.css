@@ -4,18 +4,19 @@
 
 .see{
     margin-top: 60px;
-    margin-left:5em;
+    margin-left:    1em;
     width: 33em;
     text-align: justify;
 }
 
 .see p{
     padding-right: 10px;
+
 }
 
 
 .contact{
-    margin-top: -50em;
+    margin-top: -35em;
 }
 
 .contact a{
