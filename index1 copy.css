@@ -1,0 +1,33 @@
+
+
+@media screen and (max-width: 768px) {
+
+.see{
+    margin-top: 60px;
+    margin-left:5em;
+    width: 33em;
+    text-align: justify;
+}
+
+.see p{
+    padding-right: 10px;
+}
+
+
+.contact{
+    margin-top: -50em;
+}
+
+.contact a{
+    width: 10em;
+}
+
+
+.tech div{
+    font-size:15px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+
+}
