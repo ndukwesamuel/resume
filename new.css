@@ -1,0 +1,17 @@
+@media screen and (max-width: 425px) {
+
+
+
+
+
+    .img_div{
+        background-color: red;
+    }
+
+
+    .img_div img{
+        width: 20em;
+        margin-left:2em ;
+    }
+
+}
