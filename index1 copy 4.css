@@ -1,0 +1,130 @@
+
+@media screen and (max-width: 425px) {
+
+    /* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&display=swap'); */
+body{
+    overflow-x: hidden;
+}
+
+
+.sec1{
+    background-color: red;
+    overflow-y: hidden;
+}
+
+.about{
+        visibility: hidden;
+        }
+
+        .about_new{
+            visibility: visible;
+            margin-left: 1em;
+            font-size: 15px;
+            /* width: 25em; */
+        }
+
+        .about_p{
+            font-size: 12px;
+            width: 20em;
+            text-align: justify;
+        }
+
+
+
+        .about_h2{
+            width: 13em;
+            font-size: 20px;
+        }
+
+        .long2{
+            width: 10em;
+        }
+
+        .sm_long{
+            width: 15em;
+        }
+
+
+        .zuri_img{
+            visibility: hidden;
+        }
+        
+        .zuri_img_1{
+            visibility:visible;
+            margin-left: 12em;
+            margin-top: 2em;
+            width: 10px;
+
+        }
+
+
+
+.img_div img{
+    width: 15em;
+    margin-left:1em;
+}
+
+.contact{
+    margin-top: 2em;
+    width: 17em;
+    overflow: hidden;
+}
+
+.contact div{
+    font-size: 15px;
+}
+
+.tech{
+    width: 30em;
+    overflow: hidden;
+
+  
+}
+
+.tech div{
+    font-size: 20px;
+    margin-left: 0em;
+    width: 10em;
+  
+}
+
+.work{
+    margin-top: -28em;
+    margin-left: -3em;
+    overflow: hidden;
+}
+.work li{
+    width: 20em;
+    font-size: 10px;
+    margin-left: -0em;
+}
+
+.work_p{
+    width: 16em;
+}
+
+.education{
+    margin-top: 2em;
+    overflow: hidden;
+}
+
+.education h3{
+    font-size: 20px;
+    width:10em;
+}
+
+.education p{
+    width: 13em;
+}
+
+.zu{
+    background-color: #FFF2C7;
+    width: 20em;
+    margin-left: -2em;
+    padding-bottom: 3em;
+    overflow: hidden;
+}
+
+
+
+}
