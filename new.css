@@ -27,5 +27,39 @@
         text-align: center;
     }
 
+    .zuri_img_div{
+        visibility: hidden;
+    }
+
+    .see{
+        width: 10em;
+    }
+    .about{
+        width: 10em;
+    }
+    .about hr{
+        width: 10em;
+    }
+
+    .work{
+        width: 17em;
+        margin-left: -2em;
+    }
+
+    .work > div >h2{
+        margin-left: -1em;
+    }
+
+
+/*     
+    <div class="about">
+    <h1> Samuel Ndukwe</h1>
+    <h2> FullStack Web developer</h2>
+    <hr>
+    <p>I am a FullStack developer with a strong interest in contemporary technologies and a strong desire to improve myself while offering excellent service to end customers. I am very goal-oriented and quite capable of working in a group to get greater results.</p>
+
+</div>  --> */
+
+
 
 }
